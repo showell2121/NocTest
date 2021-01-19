@@ -1,0 +1,11 @@
+C:\Users\showe\source\repos\VBConsoleApp\VBConsoleApp\bin\Debug\VBConsoleApp.exe.config
+C:\Users\showe\source\repos\VBConsoleApp\VBConsoleApp\bin\Debug\VBConsoleApp.exe
+C:\Users\showe\source\repos\VBConsoleApp\VBConsoleApp\bin\Debug\VBConsoleApp.pdb
+C:\Users\showe\source\repos\VBConsoleApp\VBConsoleApp\bin\Debug\VBConsoleApp.xml
+C:\Users\showe\source\repos\VBConsoleApp\VBConsoleApp\obj\Debug\VBConsoleApp.vbprojAssemblyReference.cache
+C:\Users\showe\source\repos\VBConsoleApp\VBConsoleApp\obj\Debug\VBConsoleApp.Resources.resources
+C:\Users\showe\source\repos\VBConsoleApp\VBConsoleApp\obj\Debug\VBConsoleApp.vbproj.GenerateResource.cache
+C:\Users\showe\source\repos\VBConsoleApp\VBConsoleApp\obj\Debug\VBConsoleApp.vbproj.CoreCompileInputs.cache
+C:\Users\showe\source\repos\VBConsoleApp\VBConsoleApp\obj\Debug\VBConsoleApp.exe
+C:\Users\showe\source\repos\VBConsoleApp\VBConsoleApp\obj\Debug\VBConsoleApp.xml
+C:\Users\showe\source\repos\VBConsoleApp\VBConsoleApp\obj\Debug\VBConsoleApp.pdb
